@@ -12,6 +12,10 @@ header {
     text-align: center;
 }
 
+header:hover {
+    background: #444;
+}
+
 main {
     padding: 20px;
 }
@@ -28,4 +32,8 @@ footer {
     position: absolute;
     width: 100%;
     bottom: 0;
+}
+
+footer:hover {
+    background: #444;
 }
