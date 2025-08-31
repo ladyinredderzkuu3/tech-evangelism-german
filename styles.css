@@ -36,5 +36,5 @@ footer {
 
 footer:hover {
     background: #555;
-    color: #fff;
+    color: #ffcc00; // Changed footer text color on hover for better visibility
 }
