@@ -1,4 +1,4 @@
 document.addEventListener('DOMContentLoaded', () => {
-    console.log('Tech Evangelism in Germany Application has been successfully initialized');
+    console.log('The Tech Evangelism in Germany application has been successfully initialized.');
     // Event-related functionalities will go here
 });
