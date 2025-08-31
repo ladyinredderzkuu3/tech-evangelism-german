@@ -35,5 +35,6 @@ footer {
 }
 
 footer:hover {
-    background: #444;
+    background: #555;
+    color: #fff;
 }
